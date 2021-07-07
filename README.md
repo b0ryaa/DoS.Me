@@ -24,4 +24,7 @@
 
 ## Preview 
 
-! [capture]
+![capture](https://i.ibb.co/sQ9vLSY/Screen-Shot-2021-07-06-at-8-07-45-PM.png)
+![capture](https://i.ibb.co/Pz1z2h9/Screen-Shot-2021-07-06-at-8-11-10-PM.png)
+![capture](https://i.ibb.co/dm22K7y/Screen-Shot-2021-07-06-at-8-08-39-PM.png)
+
