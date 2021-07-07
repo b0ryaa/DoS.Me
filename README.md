@@ -22,6 +22,6 @@
 ## python DoS.Me.py
 
 
-##Preview 
+## Preview 
 
-![capture]
+! [capture]
